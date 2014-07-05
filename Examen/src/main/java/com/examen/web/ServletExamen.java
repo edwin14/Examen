@@ -32,7 +32,6 @@ public class ServletExamen extends HttpServlet {
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
      RequestDispatcher despachador=request.getRequestDispatcher("/Evaluacion.jsp");
-       despachador.forward(request, response);
-        
+       despachador.forward(request, response);   
     }
 }

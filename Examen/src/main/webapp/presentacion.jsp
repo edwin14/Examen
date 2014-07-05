@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Resultado de Calificaciones</h1>
+        <h1>Resultado de Calificaciones!!</h1>
     </body>
 </html>
